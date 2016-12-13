@@ -1,0 +1,5 @@
+Credentials cache: API:4788
+        Principal: okres@UNIT.UA
+
+  Issued                Expires               Principal
+Oct 24 15:30:09 2016  Oct 25 01:30:09 2016  krbtgt/UNIT.UA@UNIT.UA
